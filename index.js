@@ -14,6 +14,7 @@ var Product = mongoose.model("Product", schemaP, "product");
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost:27017/products', {useNewUrlParser: true});
 
+//Función auxiliar
 function showData(data) {
     return {
         _id: data[0]._id,
@@ -119,7 +120,7 @@ function buy (clientid,productid) {
     });
 }
 
-//Función auxiliar
+
 
 //Acciones
 //insert('Sergio','Alfaro', 'Mercurio 60','sealfarofa@ittepic.edu.mx','3111215684',500);
