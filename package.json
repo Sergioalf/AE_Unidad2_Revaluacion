@@ -1,0 +1,23 @@
+{
+  "name": "ae_unidad2_revaluacion",
+  "version": "1.0.0",
+  "description": "Reevaluacion de la unidad 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergioalf/AE_Unidad2_Revaluacion.git"
+  },
+  "author": "Sergio Alfaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergioalf/AE_Unidad2_Revaluacion/issues"
+  },
+  "homepage": "https://github.com/Sergioalf/AE_Unidad2_Revaluacion#readme",
+  "dependencies": {
+    "cryptr": "^4.0.2",
+    "mongoose": "^5.5.13"
+  }
+}
