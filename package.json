@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Sergioalf/AE_Unidad2_Revaluacion#readme",
   "dependencies": {
     "cryptr": "^4.0.2",
-    "mongoose": "^5.5.13"
+    "mongoose": "^5.7.5"
   }
 }
